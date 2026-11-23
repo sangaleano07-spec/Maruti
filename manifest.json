@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "Sandino Logística",
+  "short_name": "Sandino",
+  "description": "Gestión de entregas, clientes y gastos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "orientation": "portrait"
+}
